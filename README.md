@@ -12,11 +12,11 @@
 - It accounts for 25% of all cancer cases and affected over 2.1 Million people in 2015 alone. 
 - It starts when cells in the breast begin to grow out of control. These cells usually form tumors that can be seen via X-ray or felt as lumps in the breast area.
 
+**Problem Statement:**
 
-** Problem Statement:**
  - The key challenge against its detection is how to classify tumors into malignant (cancerous) or benign(non-cancerous). We analysis of classifying these tumors using machine learning algorithms and EDA done on the Breast Cancer Wisconsin (Diagnostic) Dataset.
  
-** Study of Existing Systems:**
+**Study of Existing Systems:**
  
  1. EDA: Breast_Cancer_prediction: 
 Author: A KARTHIKEYA REDDY - In this project, He did not do the analysis part and he applied only Machine Learning part.
@@ -24,7 +24,7 @@ Author: A KARTHIKEYA REDDY - In this project, He did not do the analysis part an
 2. Breast Cancer Detection Using ML: 
 Author-MUHMMAD ALEEM RAZA - In this project, he did the analysis part and applied machine learning algorithms to predict the tumors into malignant (cancerous) or benign(non-cancerous).
 
-** Tools/Technology used to implement proposed solution: **
+**Tools/Technology used to implement proposed solution:**
 
 ● Python
 
